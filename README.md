@@ -9,6 +9,8 @@ Does the data support ‘professional’ (individual who has a professional job) inf
 
 Does a relationship exist between ‘Professional’ and ‘Income’? How can we predict the average income in counties?
 
+Check the final_project.html (the final version). and you can check MyProject.html (older version). 
+
 Note: This is a teamwork project. The authors are:
 1-Thana Alzaid 
 2- Greeshmanjali Bandlamudi
